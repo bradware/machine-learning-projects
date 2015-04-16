@@ -1,10 +1,10 @@
 All of my datasets were run in Weka version 3.7
 ___________________________________________________
-— Neural Network - Multilayer Perceptron - manipulated the learning rate
-- Decision Tree - J48 - manipulated the confidence factor
-- Boosting - AdaBoostM1 - classifier is J48, manipulated the confidence factor and number 	of iterations
-- K Nearest Neighbors - IBk - manipulated the k value
-- Support Vector Machine - SMO - manipulated the kernel and the gamma value
+* Neural Network - Multilayer Perceptron - manipulated the learning rate
+* Decision Tree - J48 - manipulated the confidence factor
+* Boosting - AdaBoostM1 - classifier is J48, manipulated the confidence factor and number 	of iterations
+* K Nearest Neighbors - IBk - manipulated the k value
+* Support Vector Machine - SMO - manipulated the kernel and the gamma value
 
 I’ve included all of my data files in this directory.
 
