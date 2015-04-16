@@ -1,9 +1,9 @@
 My dataset and Optimization Algorithms were all run through ABAGAIL: https://github.com/pushkar/ABAGAIL. Here are the specific files that I ran through ABAGAIL.
 ___________________________________________________
-— WineQualityTest.java - to run my wine dataset and use optimization algorithms instead of backpropagation. File is attached.
-- FourPeaksTest.java - used to run Four Peaks problem. File is attached. 
-- KnapsackTest.java - used to run Knapsack problem. File is attached. 
-- TravelingSalesmanTest.java - used to run Traveling Salesman problem. File is attached. 
+* WineQualityTest.java - to run my wine dataset and use optimization algorithms instead of backpropagation. File is attached.
+* FourPeaksTest.java - used to run Four Peaks problem. File is attached. 
+* KnapsackTest.java - used to run Knapsack problem. File is attached. 
+* TravelingSalesmanTest.java - used to run Traveling Salesman problem. File is attached. 
 
 I’ve included all of my data files in this directory.
 
