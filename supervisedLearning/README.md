@@ -9,8 +9,8 @@ ___________________________________________________
 I’ve included all of my data files in this directory.
 
 More information on my datasets can be found here:
-http://archive.ics.uci.edu/ml/datasets/Flags
-http://archive.ics.uci.edu/ml/datasets/Wine+Quality
+* http://archive.ics.uci.edu/ml/datasets/Flags
+* http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 However, I manipulated both of the source data sets for this project. So please run the sets that I have included for the same results. 
 
