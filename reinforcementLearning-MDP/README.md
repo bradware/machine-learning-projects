@@ -1,6 +1,6 @@
-All of my MDP problems (mazes) and code is included in the RL_SIM.zip file. I ran everything through it’s GUI.
+All of my MDP problems (mazes) and code can be found through the RL_SIM package at https://www.cs.cmu.edu/~awm/rlsim/. I ran everything through it’s GUI.
 ___________________________________________________
-— Value Iteration: ran Value Iteration and manipulated PJOG
+- Value Iteration: ran Value Iteration and manipulated PJOG
 - Policy Iteration: ran Policy Iteration and manipulated PJOG
 - Q-Learning: ran Q Learning and manipulated PJOG and epsilon
 - Small Maze: Option 6 Medium_Moderate_Maze under RL_SIM/mazes
