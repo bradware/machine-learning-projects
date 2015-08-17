@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
 Contains my datasets, visuals, and analyses on 4 main components of machine learning:
   * [Supervised Learning](http://en.wikipedia.org/wiki/Supervised_learning)
   * [Randomized Optimization](http://en.wikipedia.org/wiki/Random_optimization)
